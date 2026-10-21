@@ -1,0 +1,131 @@
+distributor,category,measure,financial_year,year_label,gsl_rate,gsl_count,gsl_amount
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY22,FY22act,35.0,310.0,10850.0
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY23,FY23act,35.0,179.0,6265.0
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY24,FY24fct,35.0,294.0,10290.0
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY25,FY25fct,35.0,261.0,9135.0
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY26,FY26fct,35.0,261.0,9135.0
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY27,FY27fct,40.25,261.0,10505.25
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY28,FY28fct,40.25,261.0,10505.25
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY29,FY29fct,40.25,261.0,10505.25
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY30,FY30fct,40.25,261.0,10505.25
+Powercor,Appointments,Appointments not met within 15 minutes of agreed time,FY31,FY31fct,40.25,261.0,10505.25
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY22,FY22act,146.02409638554218,166.0,24240.0
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY23,FY23act,171.05263157894737,152.0,26000.0
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY24,FY24fct,162.09150326797385,153.0,24800.0
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY25,FY25fct,159.72274374415449,157.0,25076.470767832256
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY26,FY26fct,159.72274374415449,157.0,25076.470767832256
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY27,FY27fct,183.68115530577765,157.0,28837.94138300709
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY28,FY28fct,183.68115530577765,157.0,28837.94138300709
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY29,FY29fct,183.68115530577765,157.0,28837.94138300709
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY30,FY30fct,183.68115530577765,157.0,28837.94138300709
+Powercor,Connections,Connections - GSL payments - 1-4 day delay,FY31,FY31fct,183.68115530577765,157.0,28837.94138300709
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY22,FY22act,400.0,135.0,54000.0
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY23,FY23act,400.0,154.0,61600.0
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY24,FY24fct,400.0,97.0,38800.0
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY25,FY25fct,400.0,128.66666666666666,51466.666666666664
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY26,FY26fct,400.0,128.66666666666666,51466.666666666664
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY27,FY27fct,459.99999999999994,128.66666666666666,59186.66666666666
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY28,FY28fct,459.99999999999994,128.66666666666666,59186.66666666666
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY29,FY29fct,459.99999999999994,128.66666666666666,59186.66666666666
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY30,FY30fct,459.99999999999994,128.66666666666666,59186.66666666666
+Powercor,Connections,Connections - GSL payments - 5+ day delay,FY31,FY31fct,459.99999999999994,128.66666666666666,59186.66666666666
+Powercor,Reliability of supply,MED - 12 hours:,FY22,FY22act,90.0,27479.0,2473110.0
+Powercor,Reliability of supply,MED - 12 hours:,FY23,FY23act,90.0,7579.0,682110.0
+Powercor,Reliability of supply,MED - 12 hours:,FY24,FY24fct,90.0,13225.0,1190250.0
+Powercor,Reliability of supply,MED - 12 hours:,FY25,FY25fct,90.0,16094.333333333334,1448490.0
+Powercor,Reliability of supply,MED - 12 hours:,FY26,FY26fct,90.0,16094.333333333334,1448490.0
+Powercor,Reliability of supply,MED - 12 hours:,FY27,FY27fct,103.49999999999999,16094.333333333334,1665763.4999999998
+Powercor,Reliability of supply,MED - 12 hours:,FY28,FY28fct,103.49999999999999,16094.333333333334,1665763.4999999998
+Powercor,Reliability of supply,MED - 12 hours:,FY29,FY29fct,103.49999999999999,16094.333333333334,1665763.4999999998
+Powercor,Reliability of supply,MED - 12 hours:,FY30,FY30fct,103.49999999999999,16094.333333333334,1665763.4999999998
+Powercor,Reliability of supply,MED - 12 hours:,FY31,FY31fct,103.49999999999999,16094.333333333334,1665763.4999999998
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY22,FY22act,130.0,3994.0,519220.0
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY23,FY23act,130.0,6079.0,790270.0
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY24,FY24fct,130.0,3381.0,439530.0
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY25,FY25fct,130.0,4484.666666666667,583006.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY26,FY26fct,130.0,4484.666666666667,583006.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY27,FY27fct,149.5,4484.666666666667,670457.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY28,FY28fct,149.5,4484.666666666667,670457.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY29,FY29fct,149.5,4484.666666666667,670457.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY30,FY30fct,149.5,4484.666666666667,670457.6666666667
+Powercor,Reliability of supply,Low reliability payments - 18 hours,FY31,FY31fct,149.5,4484.666666666667,670457.6666666667
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY22,FY22act,190.0,949.0,180310.0
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY23,FY23act,190.0,864.0,164160.0
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY24,FY24fct,190.0,754.0,143260.0
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY25,FY25fct,190.0,855.6666666666666,162576.66666666666
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY26,FY26fct,190.0,855.6666666666666,162576.66666666666
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY27,FY27fct,218.49999999999997,855.6666666666666,186963.16666666663
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY28,FY28fct,218.49999999999997,855.6666666666666,186963.16666666663
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY29,FY29fct,218.49999999999997,855.6666666666666,186963.16666666663
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY30,FY30fct,218.49999999999997,855.6666666666666,186963.16666666663
+Powercor,Reliability of supply,Low reliability payments - 30 hours,FY31,FY31fct,218.49999999999997,855.6666666666666,186963.16666666663
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY22,FY22act,380.0,18.0,6840.0
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY23,FY23act,380.0,51.0,19380.0
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY24,FY24fct,380.0,50.0,19000.0
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY25,FY25fct,380.0,39.666666666666664,15073.333333333332
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY26,FY26fct,380.0,39.666666666666664,15073.333333333332
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY27,FY27fct,436.99999999999994,39.666666666666664,17334.33333333333
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY28,FY28fct,436.99999999999994,39.666666666666664,17334.33333333333
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY29,FY29fct,436.99999999999994,39.666666666666664,17334.33333333333
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY30,FY30fct,436.99999999999994,39.666666666666664,17334.33333333333
+Powercor,Reliability of supply,Low reliability payments - 60 hours,FY31,FY31fct,436.99999999999994,39.666666666666664,17334.33333333333
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY22,FY22act,40.0,347.0,13880.0
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY23,FY23act,40.0,0.0,0.0
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY24,FY24fct,40.0,342.0,13680.0
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY25,FY25fct,40.0,229.66666666666666,9186.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY26,FY26fct,40.0,229.66666666666666,9186.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY27,FY27fct,46.0,229.66666666666666,10564.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY28,FY28fct,46.0,229.66666666666666,10564.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY29,FY29fct,46.0,229.66666666666666,10564.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY30,FY30fct,46.0,229.66666666666666,10564.666666666666
+Powercor,Reliability of supply,Low reliability payments - 24 momentary events,FY31,FY31fct,46.0,229.66666666666666,10564.666666666666
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY22,FY22act,50.0,78.0,3900.0
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY23,FY23act,50.0,0.0,0.0
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY24,FY24fct,50.0,86.0,4300.0
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY25,FY25fct,50.0,54.666666666666664,2733.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY26,FY26fct,50.0,54.666666666666664,2733.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY27,FY27fct,57.49999999999999,54.666666666666664,3143.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY28,FY28fct,57.49999999999999,54.666666666666664,3143.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY29,FY29fct,57.49999999999999,54.666666666666664,3143.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY30,FY30fct,57.49999999999999,54.666666666666664,3143.333333333333
+Powercor,Reliability of supply,Low reliability payments - 36 momentary events,FY31,FY31fct,57.49999999999999,54.666666666666664,3143.333333333333
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY22,FY22act,130.0,14836.0,1928680.0
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY23,FY23act,130.0,12845.0,1669850.0
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY24,FY24fct,130.0,989.0,128570.0
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY25,FY25fct,130.0,9556.666666666666,1242366.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY26,FY26fct,130.0,9556.666666666666,1242366.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY27,FY27fct,149.5,9556.666666666666,1428721.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY28,FY28fct,149.5,9556.666666666666,1428721.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY29,FY29fct,149.5,9556.666666666666,1428721.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY30,FY30fct,149.5,9556.666666666666,1428721.6666666665
+Powercor,Reliability of supply,Low reliability payments - 8 events,FY31,FY31fct,149.5,9556.666666666666,1428721.6666666665
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY22,FY22act,190.0,1971.0,374490.0
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY23,FY23act,190.0,1893.0,359670.0
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY24,FY24fct,190.0,1251.0,237690.0
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY25,FY25fct,190.0,1705.0,323950.0
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY26,FY26fct,190.0,1705.0,323950.0
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY27,FY27fct,218.49999999999997,1705.0,372542.49999999994
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY28,FY28fct,218.49999999999997,1705.0,372542.49999999994
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY29,FY29fct,218.49999999999997,1705.0,372542.49999999994
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY30,FY30fct,218.49999999999997,1705.0,372542.49999999994
+Powercor,Reliability of supply,Low reliability payments - 12 events,FY31,FY31fct,218.49999999999997,1705.0,372542.49999999994
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY22,FY22act,380.0,0.0,0.0
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY23,FY23act,380.0,0.0,0.0
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY24,FY24fct,380.0,3.0,1140.0
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY25,FY25fct,380.0,1.0,380.0
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY26,FY26fct,380.0,1.0,380.0
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY27,FY27fct,436.99999999999994,1.0,436.99999999999994
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY28,FY28fct,436.99999999999994,1.0,436.99999999999994
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY29,FY29fct,436.99999999999994,1.0,436.99999999999994
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY30,FY30fct,436.99999999999994,1.0,436.99999999999994
+Powercor,Reliability of supply,Low reliability payments - 20 events,FY31,FY31fct,436.99999999999994,1.0,436.99999999999994
+Powercor,Street lights,Street lights - GSL payments,FY22,FY22act,25.0,30.0,750.0
+Powercor,Street lights,Street lights - GSL payments,FY23,FY23act,25.0,23.0,575.0
+Powercor,Street lights,Street lights - GSL payments,FY24,FY24fct,25.0,21.0,525.0
+Powercor,Street lights,Street lights - GSL payments,FY25,FY25fct,25.0,24.666666666666668,616.6666666666667
+Powercor,Street lights,Street lights - GSL payments,FY26,FY26fct,25.0,24.666666666666668,616.6666666666667
+Powercor,Street lights,Street lights - GSL payments,FY27,FY27fct,28.749999999999996,24.666666666666668,709.1666666666666
+Powercor,Street lights,Street lights - GSL payments,FY28,FY28fct,28.749999999999996,24.666666666666668,709.1666666666666
+Powercor,Street lights,Street lights - GSL payments,FY29,FY29fct,28.749999999999996,24.666666666666668,709.1666666666666
+Powercor,Street lights,Street lights - GSL payments,FY30,FY30fct,28.749999999999996,24.666666666666668,709.1666666666666
+Powercor,Street lights,Street lights - GSL payments,FY31,FY31fct,28.749999999999996,24.666666666666668,709.1666666666666

@@ -1,0 +1,101 @@
+gsl_category,financial_year,distributor,gsl_count,total_value
+Appointments not met within 15 minutes of agreed time,2021-22,AusNet Services,178,"$6,095"
+Appointments not met within 15 minutes of agreed time,2021-22,Jemena,7,$280
+Appointments not met within 15 minutes of agreed time,2021-22,CitiPower,170,"$5,950"
+Appointments not met within 15 minutes of agreed time,2021-22,Powercor Australia,310,"$10,850"
+Appointments not met within 15 minutes of agreed time,2021-22,United Energy,21,$725
+Appointments not met within 15 minutes of agreed time,2022-23,AusNet Services,234,"$8,190"
+Appointments not met within 15 minutes of agreed time,2022-23,Jemena,2,$70
+Appointments not met within 15 minutes of agreed time,2022-23,CitiPower,82,"$2,870"
+Appointments not met within 15 minutes of agreed time,2022-23,Powercor Australia,179,"$6,265"
+Appointments not met within 15 minutes of agreed time,2022-23,United Energy,323,"$11,305"
+Appointments not met within 15 minutes of agreed time,2023-24,AusNet Services,214,"$7,490"
+Appointments not met within 15 minutes of agreed time,2023-24,Jemena,0,$0
+Appointments not met within 15 minutes of agreed time,2023-24,CitiPower,40,"$1,400"
+Appointments not met within 15 minutes of agreed time,2023-24,Powercor Australia,294,"$10,290"
+Appointments not met within 15 minutes of agreed time,2023-24,United Energy,65,"$2,275"
+Appointments not met within 15 minutes of agreed time,2024-25,AusNet Services,0,$0
+Appointments not met within 15 minutes of agreed time,2024-25,Jemena,3,$105
+Appointments not met within 15 minutes of agreed time,2024-25,CitiPower,12,$420
+Appointments not met within 15 minutes of agreed time,2024-25,Powercor Australia,148,"$5,180"
+Appointments not met within 15 minutes of agreed time,2024-25,United Energy,4,$140
+Failing to connect customers by agreed date,2021-22,AusNet Services,2116,"$452,030"
+Failing to connect customers by agreed date,2021-22,Jemena,165,"$33,440"
+Failing to connect customers by agreed date,2021-22,CitiPower,20,"$6,560"
+Failing to connect customers by agreed date,2021-22,Powercor Australia,301,"$78,240"
+Failing to connect customers by agreed date,2021-22,United Energy,25,"$6,800"
+Failing to connect customers by agreed date,2022-23,AusNet Services,"2,263","$490,400"
+Failing to connect customers by agreed date,2022-23,Jemena,13,"$4,560"
+Failing to connect customers by agreed date,2022-23,CitiPower,19,"$4,640"
+Failing to connect customers by agreed date,2022-23,Powercor Australia,306,"$87,600"
+Failing to connect customers by agreed date,2022-23,United Energy,931,"$298,960"
+Failing to connect customers by agreed date,2023-24,AusNet Services,4742,"$1,614,160"
+Failing to connect customers by agreed date,2023-24,Jemena,3,$240
+Failing to connect customers by agreed date,2023-24,CitiPower,8,"$2,000"
+Failing to connect customers by agreed date,2023-24,Powercor Australia,250,"$63,600"
+Failing to connect customers by agreed date,2023-24,United Energy,93,"$22,880"
+Failing to connect customers by agreed date,2024-25,AusNet Services,0,$0
+Failing to connect customers by agreed date,2024-25,Jemena,23,"$3,040"
+Failing to connect customers by agreed date,2024-25,CitiPower,10,"$2,800"
+Failing to connect customers by agreed date,2024-25,Powercor Australia,65,"$17,280"
+Failing to connect customers by agreed date,2024-25,United Energy,45,"$14,880"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2021-22,AusNet Services,"19,135","$3,071,200"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2021-22,Jemena,162,"$24,800"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2021-22,CitiPower,266,"$39,340"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2021-22,Powercor Australia,"4,961","$706,370"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2021-22,United Energy,454,"$86,180"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2022-23,AusNet Services,"24,955","$4,066,830"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2022-23,Jemena,204,"$27,300"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2022-23,CitiPower,109,"$15,090"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2022-23,Powercor Australia,"6,994","$973,810"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2022-23,United Energy,631,"$87,670"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2023-24,AusNet Services,"30,504","$4,750,350"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2023-24,Jemena,618,"$89,560"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2023-24,CitiPower,163,"$25,060"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2023-24,Powercor Australia,"4,185","$601,790"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2023-24,United Energy,408,"$54,250"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2024-25,AusNet Services,"34,978","$5,408,090"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2024-25,Jemena,366,"$49,740"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2024-25,CitiPower,457,"$72,200"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2024-25,Powercor Australia,"8,894","$1,456,940"
+Supply restoration payments for over 18 hours of unplanned sustained interruptions per year,2024-25,United Energy,786,"$128,810"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2021-22,AusNet Services,"17,139","$1,057,190"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2021-22,Jemena,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2021-22,CitiPower,1,$40
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2021-22,Powercor Australia,"17,232","$2,320,950"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2021-22,United Energy,25,"$3,250"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2022-23,AusNet Services,"20,863","$1,600,170"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2022-23,Jemena,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2022-23,CitiPower,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2022-23,Powercor Australia,"14,738","$2,029,520"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2022-23,United Energy,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2023-24,AusNet Services,"14,848","$1,244,810"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2023-24,Jemena,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2023-24,CitiPower,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2023-24,Powercor Australia,"2,671","$385,380"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2023-24,United Energy,25,"$3,250"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2024-25,AusNet Services,"16,746","$1,564,000"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2024-25,Jemena,48,"$6,240"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2024-25,CitiPower,0,$0
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2024-25,Powercor Australia,"3,184","$470,110"
+Low reliability payments for over 8 unplanned sustained interruptions per year and momentary interruptions,2024-25,United Energy,0,$0
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2021-22,AusNet Services,"100,133","$9,011,970"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2021-22,Jemena,"6,321","$568,890"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2021-22,CitiPower,402,"$36,180"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2021-22,Powercor Australia,"27,479","$2,473,110"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2021-22,United Energy,"34,482","$3,103,380"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2022-23,AusNet Services,"13,755","$1,237,950"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2022-23,Jemena,0,$0
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2022-23,CitiPower,15,"$1,350"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2022-23,Powercor Australia,"7,579","$682,110"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2022-23,United Energy,0,$0
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2023-24,AusNet Services,"225,971","$20,337,390"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2023-24,Jemena,0,$0
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2023-24,CitiPower,110,"$9,900"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2023-24,Powercor Australia,"13,225","$1,190,250"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2023-24,United Energy,"44,347","$3,991,230"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2024-25,AusNet Services,"95,222","$8,569,980"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2024-25,Jemena,134,"$12,060"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2024-25,CitiPower,0,$0
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2024-25,Powercor Australia,"5,324","$479,160"
+Major event day payments for over 12 hours of unplanned sustained interruptions during storm events,2024-25,United Energy,"2,802","$252,180"
